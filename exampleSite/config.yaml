@@ -45,7 +45,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Results Proven SEO Consultant - Francesca Kavvadia "
+  title: "Results Proven SEO Consultant"
   description: Expert SEO consultant who delivers exceptional organic and ranking growth. Over 10 years of experience in SEO. Working for UK and Global brands. Request a consultation.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"

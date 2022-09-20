@@ -101,8 +101,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Francesca."
-    subtitle: "I optimise websites and offer SEO consulting services "
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: "I optimise websites and deliver exceptional organic growth for amazing brands like yours! "
+    content: "A passionate SEO consultant based in London. I have over 10 years of experience in the digital marketing field working with some of the largest UK brands across different verticals. Determining important business goals and developing customised SEO growth strategies to reach those milestones lies at the core of my services"
     image: /images/hero.svg
     button:
       enable: true

@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Results Proven SEO Consultant - Francesca Kavvadia"
 theme: hugo-profile
 
 Paginate: 3
@@ -144,23 +144,23 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "SEO Director"
+        company: "Spark Foundry"
+        companyUrl: "https://www.sparkfoundryww.com/"
+        date: "Mar 2022 - present"
         featuredLink:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "I am currently working as an SEO Director at [Spark Foundry](https://www.sparkfoundryww.com/) in London, UK. I am currently working on a project that will be used to help people find the best way to get around the city."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      - job: "Technical SEO Lead"
+        company: "Passion Digital"
+        companyUrl: "https://passion.digital/"
+        date: "Jan 2020 - Feb 2022"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://passion.digital/"
         info:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
@@ -170,28 +170,28 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "SEO Account Manager"
+        company: "We Are Roast"
+        companyUrl: "https://weareroast.com/"
+        date: "Sep 2016 - Jan 2020"
         info:
           enable: false
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://weareroast.com/"
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
+      - job: "SEO Manager"
+        company: "Forward3D"
+        companyUrl: "https://www.assemblyglobal.com/"
         date: "June 2017 - Nov 2019"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://www.assemblyglobal.com/"
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 

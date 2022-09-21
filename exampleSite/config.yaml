@@ -126,9 +126,12 @@ params:
     image: "/images/me.png"
     content: |-
       For over 10 years I have been immersed in all aspects of Digital Marketing, Search Engine Optimisation and Web Analytics. I also have developed a solid understanding of HTML, CSS, Content management Systems (CMS) and all technical aspects of a website that influence SEO, usability and conversions. 
+      
       I have a track record of successful SEO strategy development and delivery for B2B and B2C clients. I am specialised in enterprise website re-platforming, migration and re-branding.
+      
       My experience spans across verticals such as: Fashion, Retail, Health, Hospitality, Travel, Finance and Legal, where I built my expertise as a strategist and web analyst.
-      While my campaigns focus on delivering effective SEO strategies, I place a particular emphasis on the search engine accessibility, technical and user engagement factors of a website. I am passionate about providing long-term ROI for my clients.
+     
+     While my campaigns focus on delivering effective SEO strategies, I place a particular emphasis on the search engine accessibility, technical and user engagement factors of a website. I am passionate about providing long-term ROI for my clients.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"

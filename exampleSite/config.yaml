@@ -134,14 +134,15 @@ params:
      While my campaigns focus on delivering effective SEO strategies, I place a particular emphasis on the search engine accessibility, technical and user engagement factors of a website. I am passionate about providing long-term ROI for my clients.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here are a the main SEO consulting services I provide:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Technical Website Audits"
+        - "SEO Strategy & Implementation"
+        - "Keyword Analysis & On-page Optimisation"
+        - "Competitor Research & Benchmarking"
+        - "International SEO Strategy"
+        - "Backlink Analysis"
+        - "Analytics & Reporting"
 
   # Experience
   experience:

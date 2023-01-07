@@ -204,37 +204,19 @@ params:
           name: "University College London"
           url: "https://www.ucl.ac.uk/pals/study/masters/msc-cognitive-and-decision-sciences"
         date: "2009 - 2010"
-        GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+        Grade: "2:1"
+        content: The cognitive processes and representations underlying human thought, knowledge and decision-making. It integrates a wide range of disciplines and methodologies, with the core assumption that human cognition and choice are computational processes, implemented in neural hardware.
+        featuredLink:
+          enable: true
+          name: "My published paper: Priming Intelligent Behavior: An Elusive Phenomenon"
+          url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056515"
       - title: "Bachelor of Psychology"
         school:
           name: "University of Athens"
           url: "http://www.psych.uoa.gr/"
         date: "2003 - 2008"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+        GPA: "4.5 out of 5.0"
+      
 
   # Achievements
   achievements:

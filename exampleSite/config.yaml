@@ -146,65 +146,52 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Senior SEO Consultant"
+        company: "Three Whiskey"
+        companyUrl: "https://www.threewhiskey.com/uk"
+        date: "Jan 2023 - present"
+        featuredLink:
+          enable: true
+          url: "https://www.threewhiskey.com/uk"
+        content: ""
+
       - job: "SEO Director"
         company: "Spark Foundry"
         companyUrl: "https://www.sparkfoundryww.com/"
-        date: "Mar 2022 - present"
+        date: "Mar 2022 - Dec 2023"
         featuredLink:
           enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as an SEO Director at [Spark Foundry](https://www.sparkfoundryww.com/) in London, UK. I am currently working on a project that will be used to help people find the best way to get around the city."
+          url: "https://www.sparkfoundryww.com/"
+        info:
+          enable: true
+          content: I worked as an SEO director for an automotive 4x4 vehicle brand which was launched in 27 countries.
+        content: ""
 
       - job: "Technical SEO Lead"
         company: "Passion Digital"
         companyUrl: "https://passion.digital/"
         date: "Jan 2020 - Feb 2022"
+        info:
+          enable: false
         featuredLink:
           enable: true
           url: "https://passion.digital/"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+        content: "As a senior technical SEO lead, I provided expert tech SEO recommendations for complex projects and created roadmaps and implemented SEO strategies for large enterprise clients, as well as smaller websites. I was also involved in new business pitches and helped built strategy documents."
 
       - job: "SEO Account Manager"
         company: "We Are Roast"
         companyUrl: "https://weareroast.com/"
         date: "Sep 2016 - Jan 2020"
-        info:
-          enable: false
         featuredLink:
           enable: true
           url: "https://weareroast.com/"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+        content: "I worked with clients in the healthcare and finance sector. As a senior SEO technical consultant, I provided day-to day account management as well as devising and implementing SEO strategies. I was also responsible for developing reporting processes / technical frameworks to improve team efficiencies and trained junior members of the team. I also worked with new business activities and building strategy documents for pitches."
 
       - job: "SEO Manager"
         company: "Forward3D"
         companyUrl: "https://www.assemblyglobal.com/"
         date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://www.assemblyglobal.com/"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "As an SEO Manager, I managed a team of 3 SEO executives, handled day-to-day relationships with our clients, and lead the SEO strategy for client accounts. This included providing technical SEO support, as well as reporting and insight into results."
 
   # Education
   education:

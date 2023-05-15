@@ -163,9 +163,6 @@ params:
         featuredLink:
           enable: true
           url: "https://www.sparkfoundryww.com/"
-        info:
-          enable: true
-          content: 
         content: "As an SEO Director for a renowned automotive 4x4 vehicle brand, I played a crucial role in implementing a highly successful global domain strategy. This strategy involved utilizing a subfolder structure under a main domain to establish the brand's online presence in 27 countries."
 
       - job: "Technical SEO Lead"

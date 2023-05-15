@@ -126,17 +126,18 @@ params:
     image: "/images/me.png"
     content: |-
       For over 10 years I have been immersed in all aspects of Digital Marketing, Search Engine Optimisation and Web Analytics. I also have developed a solid understanding of HTML, CSS, Content management Systems (CMS) and all technical aspects of a website that influence SEO, usability and conversions. 
-      I have a track record of successful SEO strategy development and delivery for B2B and B2C clients. I am specialised in enterprise website re-platforming, migration and re-branding.
+      I have a track record of successful SEO strategy development and delivery for B2B and B2C clients. I am specialised in global domain strategy, enterprise website re-platforming, migration and re-branding.
       My experience spans across verticals such as: Fashion, Retail, Health, Hospitality, Travel, Finance and Legal, where I built my expertise as a strategist and web analyst.
       While my campaigns focus on delivering effective SEO strategies, I place a particular emphasis on the search engine accessibility, technical and user engagement factors of a website. I am passionate about providing long-term ROI for my clients.
     skills:
       enable: true
       title: "Here are a the main SEO consulting services I provide:"
       items:
-        - "Technical Website Audits"
+        - "Technical SEO Audits"
         - "SEO Strategy & Implementation"
         - "Keyword Analysis & On-page Optimisation"
         - "Competitor Research & Benchmarking"
+        - "Global Domain Strategy"
         - "International SEO Strategy"
         - "Backlink Analysis"
         - "Analytics & Reporting"
@@ -164,8 +165,8 @@ params:
           url: "https://www.sparkfoundryww.com/"
         info:
           enable: true
-          content: I worked as an SEO director for an automotive 4x4 vehicle brand which was launched in 27 countries.
-        content: ""
+          content: 
+        content: "As an SEO Director for a renowned automotive 4x4 vehicle brand, I played a crucial role in implementing a highly successful global domain strategy. This strategy involved utilizing a subfolder structure under a main domain to establish the brand's online presence in 27 countries."
 
       - job: "Technical SEO Lead"
         company: "Passion Digital"

@@ -147,13 +147,22 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior SEO Consultant"
-        company: "Three Whiskey"
-        companyUrl: "https://www.threewhiskey.com/uk"
-        date: "Jan 2023 - present"
+          - job: "Senior SEO Manager"
+        company: "GA Agency"
+        companyUrl: "https://ga.agency/en/"
+        date: "May 2024 - present"
         featuredLink:
           enable: true
-          url: "https://www.threewhiskey.com/uk"
+          url: "https://ga.agency/en/"
+        content: ""
+        
+      - job: "Senior SEO Consultant"
+        company: "Everybody"
+        companyUrl: "https://www.everybodyagency.com/"
+        date: "Jan 2023 - May 2024"
+        featuredLink:
+          enable: true
+          url: "https://www.everybodyagency.com/"
         content: ""
 
       - job: "SEO Director"
